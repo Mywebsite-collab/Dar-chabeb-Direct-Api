@@ -1,6 +1,0 @@
-{
-  "name": "Maison de Jeunes de Masra — دار الشباب ماسرى",
-  "description": "Luxury editorial digital platform, interactive 3D architectural pavilion, and trilingual community hub for Dar Chabab Masra.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
